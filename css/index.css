@@ -35,3 +35,7 @@ table, th, td{
     width:100%;
     height:auto;
 }
+#hp{
+    float:right;
+    margin: 10px
+}
